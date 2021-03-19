@@ -8,7 +8,7 @@ environment:
   flutter: ">=1.12.13+hotfix.5"
 
 dependencies:
-    just_audio_platform_interface:
+   just_audio_platform_interface:
     git:
       path: just_audio_platform_interface
       ref: visualizer
